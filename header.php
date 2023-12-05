@@ -39,7 +39,7 @@
                     <b><a class="nav-link text-dark" href="update_data.php">Update</a></b>
                 </li>
                 <li class="nav-item ">
-                    <b><a class="nav-link text-dark" href="#">Delete</a></b>
+                    <b><a class="nav-link text-dark" href="ajax_example.php">Ajax</a></b>
                 </li>
             </ul>
         </div>
